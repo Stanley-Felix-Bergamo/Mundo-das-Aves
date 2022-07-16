@@ -1,0 +1,71 @@
+@media (max-width: 467px) {}
+
+/* Importando Fonte-> font-family: 'Alfa Slab One', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+.logo {
+    width: 70px;
+}
+
+.TamanhoCard {
+    max-width: 250px;
+}
+
+.img {
+    height: 300px;
+    width: 100%;
+}
+
+.mouse {
+    cursor: pointer;
+}
+
+.fundo2 {
+    background-color: rgb(233, 232, 232)
+}
+
+.fundo {
+    background-color: rgb(219, 209, 164);
+}
+
+.container {
+    background-color: white;
+}
+
+.Rodape {
+    padding: 20px;
+
+    font-size: 15px;
+    position: relative;
+    text-align: center;
+}
+
+.img {
+    width: 500px;
+}
+
+.texto {
+    margin: 10px;
+    width: 1000px;
+}
+
+.aud {
+    width: 500px;
+}
+
+.ajust {
+    text-align: justify;
+}
+
+.btnfundo {
+    background-color: rgb(219, 209, 164);
+    border-color: rgb(219, 209, 164);
+    border-radius: 4px;
+    height: 35px;
+    width: 200px;
+    color: white;
+}
+
+.btnfundo:hover {
+    background-color: rgb(185, 177, 137);
+}

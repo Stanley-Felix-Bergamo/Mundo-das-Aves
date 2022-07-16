@@ -1,0 +1,121 @@
+@media (max-width: 763px) {
+
+    #mobcapa {
+        width: 100%;
+        height: 500px;
+    }
+
+    #moblogo {
+        width: 40px;
+    }
+
+    #mobbtn {
+        top: 60px;
+        left: 40px;
+        width: 90px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    #mobdecora {
+        background-color: #798455;
+        width: 180px;
+        height: 170px;
+        left: -10px;
+        top: 120px;
+        border-radius: 600px
+    }
+
+    #mobdecora2 {
+        background-color: #46AFE5;
+        width: 180px;
+        height: 170px;
+        left: 94px;
+        top: 120px;
+    }
+
+    #MobTexto {
+        top: 50px;
+        left: 5px;
+        font-size: 8px;
+    }
+
+    #MobTexto2 {
+        top: 50px;
+        left: 5px;
+        font-size: 7px;
+    }
+}
+
+/* Importando Fonte-> font-family: 'Alfa Slab One', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+
+.logo {
+    width: 70px;
+    cursor: pointer;
+}
+
+.capa {
+    width: 100%;
+    height: 800px;
+    background: url('../assets/capa/1.jpg') center/cover no-repeat;
+}
+
+.fundo {
+    background-color: rgb(219, 209, 164);
+}
+
+
+
+.Texto {
+    position: relative;
+    top: 140px;
+    left: 36px;
+    font-size: 17px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.Texto2 {
+    position: relative;
+    top: 140px;
+    left: 40px;
+    font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.btn {
+    position: relative;
+    top: 210px;
+    left: 110px;
+    width: 200px;
+}
+
+.decora {
+    position: relative;
+    background-color: #798455;
+    width: 440px;
+    height: 410px;
+    right: 120px;
+    top: 60px;
+    border-radius: 600px
+}
+
+.decora2 {
+    position: relative;
+    background-color: #46AFE5;
+    width: 420px;
+    height: 400px;
+    left: 200px;
+    bottom: 20px;
+    border-radius: 600px
+}
+
+.Rodape {
+    padding: 20px;
+    font-size: 15px;
+    position: relative;
+    text-align: center;
+}

@@ -1,0 +1,62 @@
+@media (max-width: 768px) {
+    #audMob {
+        width: 250px;
+    }
+}
+
+/* Importando Fonte-> font-family: 'Alfa Slab One', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+.logo {
+    width: 70px;
+    cursor: pointer;
+}
+
+.fundo2 {
+    background-color: rgb(233, 232, 232)
+}
+
+.fundo {
+    background-color: rgb(219, 209, 164);
+}
+
+.container {
+    background-color: white;
+}
+
+.Rodape {
+    padding: 20px;
+    font-size: 15px;
+    position: relative;
+    text-align: center;
+}
+
+.img {
+    width: 500px;
+}
+
+.texto {
+    margin: 10px;
+    width: 1000px;
+}
+
+.aud {
+    width: 500px;
+}
+
+.ajust {
+    text-align: justify;
+}
+
+.AjustaTexto {
+    margin-left: 150px;
+}
+
+.AjustaTexto2 {
+    margin-left: 150px;
+}
+
+.AjustaImagem {
+    width: 1100px;
+    height: 400px;
+}
